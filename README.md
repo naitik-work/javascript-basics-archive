@@ -40,3 +40,12 @@ The idea behind this project was not just to replicate a visually creative websi
 * Understanding how **Locomotive Scroll** enhances user experience.
 * Improved my ability to **translate design into code**.
 * Learned to pay attention to **details in UI/UX**.
+
+## ⚠️ Note
+
+This project is created **only for educational and practice purposes**. All rights to the original design belong to [Niccolò Miranda](https://www.niccolomiranda.com/).
+
+## 👨‍💻 Author
+
+**Naitik Chitransh**
+
