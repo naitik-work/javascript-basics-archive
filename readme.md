@@ -31,6 +31,7 @@ Each project was a hands-on way to strengthen my problem-solving and logic-build
 ---
 
 ## 📂 Folder Structure
+```
 javascript-basics-archive/
 │
 ├── tictactoe-game/
@@ -47,8 +48,7 @@ javascript-basics-archive/
 ├── index.html
 ├── style.css
 └── script.js
-
-
+```
 ---
 
 ## ✨ About This Archive
